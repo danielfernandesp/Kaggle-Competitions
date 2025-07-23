@@ -90,7 +90,7 @@ These metrics indicate a strong model fit, with low prediction error and high ex
 
 ## 🛄 Submission
 
-The final predictions were generated from the stacking ensemble and submitted to Kaggle. The submission file was prepared in `Final_Model_Submission.ipynb`.
+The final predictions were generated from the stacking ensemble and submitted to Kaggle. The submission file was prepared in `submission_1_random_forest.csv`.
 
 ---
 
